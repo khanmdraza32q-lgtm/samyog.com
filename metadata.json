@@ -1,0 +1,6 @@
+{
+  "name": "SAMYOJ - Community Operating System",
+  "description": "Futuristic community action and civic problem-solving OS powered by RAZA AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
